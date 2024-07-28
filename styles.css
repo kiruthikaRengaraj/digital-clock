@@ -13,13 +13,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #2f363e;
+  background-image: url(https://wallpaperaccess.com/full/3234240.jpg)
 }
+
 
 #time {
   display: flex;
   gap: 40px;
-  color: #fff;
+  color: hwb(255 95% 4%);
 }
 
 #time .circle {
@@ -42,7 +43,7 @@
   width: 100%;
   height: 100%;
   fill: transparent;
-  stroke: #191919;
+  stroke: #06b2e2;
   stroke-width: 4px;
   transform: translate(5px, 5px);
 }
